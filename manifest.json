@@ -1,9 +1,9 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "Coop Sites Uptime",
-  "short_name": "Coop Sites Uptime",
-  "display": "standalone",
+  "name": "Upptime",
+  "short_name": "Upptime",
+  "display": "minimal-ui",
   "start_url": "/",
   "icons": [
     {
