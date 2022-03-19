@@ -5,7 +5,7 @@ repo: CoopWebsitesUptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: My Website
+  - name: The Coop Computer
     url: $COOPWEBSITE
 
 status-website:
@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /CoopWebsitesUptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Website Status
   introTitle: "**Coop** websites status"
   introMessage: this is coops website downtime thing
   navbar:
