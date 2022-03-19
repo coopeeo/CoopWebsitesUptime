@@ -4,7 +4,7 @@
   "name": "Coop Sites Uptime",
   "short_name": "Coop Sites Uptime",
   "display": "standalone",
-  "start_url": "/CoopWebsitesUptime",
+  "start_url": "/",
   "icons": [
     {
       "src": "logo-192.png",
