@@ -22,12 +22,12 @@
     "url": "http://$COOPWEBSITE/",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "the-coop-computer",
-    "status": "up",
-    "uptime": "11.53%",
-    "uptimeDay": "43.83%",
-    "uptimeWeek": "16.80%",
-    "uptimeMonth": "4.52%",
-    "uptimeYear": "11.53%",
+    "status": "down",
+    "uptime": "11.82%",
+    "uptimeDay": "44.44%",
+    "uptimeWeek": "16.89%",
+    "uptimeMonth": "4.54%",
+    "uptimeYear": "11.82%",
     "time": 1067,
     "timeDay": 2369,
     "timeWeek": 3112,
@@ -118,7 +118,7 @@
       "2022-03-23": 946,
       "2022-03-22": 641,
       "2022-03-21": 683,
-      "2022-03-20": 414
+      "2022-03-20": 63
     }
   },
   {
