@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 73,
+    "timeDay": 79,
     "timeWeek": 97,
-    "timeMonth": 88,
+    "timeMonth": 89,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-01-22": 7,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "the-coop-computer",
     "status": "down",
-    "uptime": "20.64%",
+    "uptime": "20.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.31%",
-    "time": 798,
+    "uptimeYear": "18.29%",
+    "time": 799,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 817,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2023-06-07": 117,
+      "2023-06-08": 114,
+      "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -346,8 +347,7 @@
       "2022-06-12": 822,
       "2022-06-11": 835,
       "2022-06-10": 1229,
-      "2022-06-09": 1007,
-      "2022-06-08": 1194
+      "2022-06-09": 1007
     }
   },
   {
@@ -356,15 +356,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
     "time": 207,
-    "timeDay": 58,
-    "timeWeek": 189,
-    "timeMonth": 115,
+    "timeDay": 148,
+    "timeWeek": 172,
+    "timeMonth": 119,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2022-09-28": 820,
@@ -399,16 +399,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 505,
-    "timeDay": 1178,
-    "timeWeek": 1036,
-    "timeMonth": 1324,
-    "timeYear": 519,
+    "time": 506,
+    "timeDay": 860,
+    "timeWeek": 1013,
+    "timeMonth": 1316,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2023-01-10": 26,
       "2023-01-04": 16,
-      "2022-06-10": 26,
-      "2022-06-08": 14
+      "2022-06-10": 26
     }
   }
 ]
