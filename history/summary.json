@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 71,
-    "timeWeek": 93,
+    "timeDay": 83,
+    "timeWeek": 92,
     "timeMonth": 92,
-    "timeYear": 107,
+    "timeYear": 108,
     "dailyMinutesDown": {
       "2023-01-22": 7,
       "2022-10-31": 23
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "the-coop-computer",
     "status": "down",
-    "uptime": "20.23%",
+    "uptime": "20.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.70%",
+    "uptimeYear": "17.61%",
     "time": 783,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 520,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2023-06-16": 106,
+      "2023-06-17": 102,
+      "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -346,8 +347,7 @@
       "2022-06-21": 879,
       "2022-06-20": 1030,
       "2022-06-19": 780,
-      "2022-06-18": 912,
-      "2022-06-17": 787
+      "2022-06-18": 912
     }
   },
   {
@@ -362,8 +362,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
     "time": 206,
-    "timeDay": 37,
-    "timeWeek": 140,
+    "timeDay": 144,
+    "timeWeek": 126,
     "timeMonth": 119,
     "timeYear": 203,
     "dailyMinutesDown": {
@@ -399,11 +399,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 515,
-    "timeDay": 1219,
-    "timeWeek": 1031,
+    "time": 516,
+    "timeDay": 859,
+    "timeWeek": 1008,
     "timeMonth": 1178,
-    "timeYear": 500,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2023-01-10": 26,
       "2023-01-04": 16
